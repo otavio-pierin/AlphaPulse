@@ -1,0 +1,10 @@
+streamlit>=1.32
+yfinance
+pandas
+numpy
+scikit-learn
+tensorflow
+matplotlib
+requests
+transformers
+torch>=2.6

@@ -1,0 +1,3 @@
+,acuracia,baseline,ganho_pp,p_valor,auc,f1_macro,precisao_alta,recall_alta,brier,prev_alta_pct,retorno_estrategia_pct,retorno_buy_hold_pct,vol_estrategia_pct,vol_buy_hold_pct
+"persistência (regra, sem IA)",0.502,0.510,-0.794,0.669,0.507,0.501,0.511,0.508,0.299,50.635,22.525,32.070,10.999,19.071
+transformer preço+texto (early),0.519 ± 0.008,0.510 ± 0.000,0.952 ± 0.809,0.341 ± 0.149,0.509 ± 0.011,0.507 ± 0.007,0.522 ± 0.006,0.660 ± 0.033,0.253 ± 0.001,64.444 ± 2.970,-6.107 ± 5.284,32.070 ± 0.000,14.008 ± 0.381,19.071 ± 0.000

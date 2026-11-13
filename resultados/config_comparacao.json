@@ -1,0 +1,10 @@
+{
+  "base": "dados/base_diaria_BVSP.csv",
+  "temporal": "lstm",
+  "fusao": "media",
+  "limiar": "fixo",
+  "janela": 30,
+  "sementes": 5,
+  "comparar": true,
+  "saida": "resultados"
+}

@@ -1,10 +1,12 @@
-streamlit>=1.32
 yfinance
-pandas
+pandas>=2.2
 numpy
-scikit-learn
-tensorflow
-matplotlib
 requests
 transformers
+# PyTorch com GPU: pip install --upgrade "torch>=2.6" --index-url https://download.pytorch.org/whl/cu126
 torch>=2.6
+scikit-learn
+scipy
+matplotlib
+joblib
+streamlit>=1.32

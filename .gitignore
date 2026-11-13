@@ -1,0 +1,20 @@
+# Modelos grandes (o FinBERT ajustado fica no Hugging Face Hub)
+modelos_finbert/
+*.safetensors
+*.bin
+
+# Dados gerados pelo pipeline (recriados com: python gerar_base.py)
+dados/
+*.db
+*.db-wal
+*.db-shm
+
+# Bases de terceiros (baixar do repositório da Unicamp)
+*.zip
+
+# Python e ambiente
+__pycache__/
+*.pyc
+.vscode/
+.ipynb_checkpoints/
+*.tmp

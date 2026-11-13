@@ -1,0 +1,14 @@
+{
+  "base": "dados/base_diaria_BVSP.csv",
+  "temporal": "lstm",
+  "modo": "late",
+  "fusao": "media",
+  "limiar": "fixo",
+  "horizonte": 1,
+  "janela": 30,
+  "folds": 5,
+  "tam_teste": 126,
+  "sementes": 3,
+  "comparar": true,
+  "saida": "resultados"
+}

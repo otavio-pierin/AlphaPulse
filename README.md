@@ -139,4 +139,4 @@ Saídas em `resultados/`: métricas (acurácia com intervalo de confiança, F1, 
 
 ## Autores
 
-Lucas Brasil Oliveira, [nomes dos demais integrantes] · Sistemas de Informação, UFV – Campus Rio Paranaíba · Profa. Dra. Larissa Ferreira Rodrigues Moreira
+Otávio Silva Pierin, Lucas Brasil Oliveira, Gustavo Oliveira Camargo · Sistemas de Informação, UFV – Campus Rio Paranaíba · Profa. Dra. Larissa Ferreira Rodrigues Moreira
